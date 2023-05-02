@@ -1,2 +1,2 @@
-# i3-gaps-dotfiles
+# My dotfiles
 Ignore this. Very messy.
